@@ -4,4 +4,6 @@ para usar la plataforma Git
 
 Y lograr ser un master en el manejo de Git y Github
 
+adicione esta linea para el commit 2
+
 Saludos
