@@ -1,0 +1,7 @@
+Este es el primer archivo
+
+para usar la plataforma Git
+
+Y lograr ser un master en el manejo de Git y Github
+
+Saludos
